@@ -1,0 +1,14 @@
+.git/
+src/
+test/
+
+.gitignore
+.eslintignore
+.eslintrc.js
+.githooks
+.mocharc.json
+.npmignore
+.nycrc
+.nyc_output
+tsconfig.json
+
